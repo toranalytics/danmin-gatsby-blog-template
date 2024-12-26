@@ -25,4 +25,9 @@
   },
   "include": ["**/*.ts", "**/*.tsx"],
   "exclude": ["node_modules"]
+
+    // notion configuration (required)
+  "notionConfig":{
+    "pageId": "process.env.NOTION_PAGE_ID",
+  },
 }
