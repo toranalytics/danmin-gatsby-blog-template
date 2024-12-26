@@ -2,8 +2,8 @@ export default {
   /**
    * basic Information
    */
-  title: `jeong-min.com`,
-  description: `개발자 단민`,
+  title: `toranalytics.com`,
+  description: `데이터 사이언티스트 토라`,
   language: `ko`,
   siteUrl: `https://jeong-min.com/`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
@@ -21,16 +21,16 @@ export default {
    * introduce yourself
    */
   author: {
-    name: `이정민`,
-    nickname: `단민`,
-    stack: ['Frontend', 'React', 'Typescript'],
+    name: `서준범`,
+    nickname: `토라`,
+    stack: ['python', 'matplotlib', 'pytorch'],
     bio: {
-      email: `ljm991108@gmail.com`,
+      email: `tjwnsqja0704@gmail.com`,
       residence: 'Seoul, South Korea',
-      bachelorDegree: 'Kyunghee Univ. Computer Engineering (2018.03-2022.02)',
+      bachelorDegree: 'Kwangwoon Univ. IT CONVERGENCE & Korean literature (2016.03-2023.08)',
     },
     social: {
-      github: `https://github.com/danmin20`,
+      github: `https://github.com/toranalytics`,
       linkedIn: `https://www.linkedin.com/in/jeonming-lee/`,
       resume: `https://www.figma.com/file/dtkCl6G7G5DVe18DN2LWny/%EC%9D%B4%EC%A0%95%EB%AF%BC-%EC%9D%B4%EB%A0%A5%EC%84%9C?node-id=0%3A1`,
     },
